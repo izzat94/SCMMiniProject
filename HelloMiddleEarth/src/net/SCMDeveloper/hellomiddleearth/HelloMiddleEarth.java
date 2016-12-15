@@ -9,6 +9,7 @@ public class HelloMiddleEarth {
 		// print greetings to the fine folks in the Middle Earth
 			for (String name : names){
 				System.out.format("Hello, %s!\n", name);
+				System.out.println("How are you doing today?");
 			}
 	}
 }
